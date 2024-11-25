@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Likhith
 - 👀 I’m interested in Data, ML/DL and AI
-- 🌱 I’m currently working on BI Tools
+- 🌱 I’m currently working as a BI Specialist for Advanta Seeds US LLC
 - 📫 How to reach me: likhith.seera@advantaseeds.com
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I am a recent graduate from ASU with Computer Science as my major

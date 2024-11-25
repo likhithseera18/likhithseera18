@@ -1,10 +1,9 @@
 - 👋 Hi, I’m Likhith
 - 👀 I’m interested in Data, ML/DL and AI
 - 🌱 I’m currently working on BI Tools
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: likhith.seera@advantaseeds.com
+- 😄 Pronouns: He/Him/His
+- ⚡ Fun fact: I am a recent graduate from ASU with Computer Science as my major
 
 <!---
 likhithseera18/likhithseera18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
